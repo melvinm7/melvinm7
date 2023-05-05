@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I'm currently a Computer Science @ Georgia State Univeristy graduating in May 2023.
+🎓 I graduated from Georgia State Univeristy with a Bachelors in Computer Science.
 
 🌱 I’m currently learning React.js
 
